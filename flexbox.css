@@ -1,0 +1,65 @@
+.tacos {
+  width :150px;
+}
+
+.mid-group1 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+}
+.mid-group2 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.mid-group3 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+}
+
+.mid-group4 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.tacos-big {
+  width: 500px;
+  margin-top: 60px;
+}
+
+.mid-group1-2 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.mid-group2-2 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+}
+
+.mid-group3-2 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.mid-group4-2 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+}
+
+.bigbig-group {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+.small-group {
+  margin: 10px;
+}
